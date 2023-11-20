@@ -43,7 +43,7 @@ body{
 }
 
 .display span{
-  font-size: 14px;
+  font-size: 25px;
   color: #888;
 }
 
@@ -68,7 +68,7 @@ button:hover{
 
 .operators button{
   flex: 1 1 0%;
-  background-color: var(--primary);
+  background-color: var(--secondary);
   font-weight: 700;
 }
 
